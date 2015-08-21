@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chris@jacksonce.co.uk",
+    "longName": "CEJ_W_Test01",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "CEJ_W_Test01",
+    "uuid": "510315d8-2e0b-4a6a-b08d-ee52b69755b7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
