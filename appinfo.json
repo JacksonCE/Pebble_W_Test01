@@ -7,10 +7,19 @@
     "longName": "CEJ_W_Test01",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/justicesolid.ttf",
+                "name": "FONT_JUSTICESOLID_24",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "CEJ_W_Test01",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "510315d8-2e0b-4a6a-b08d-ee52b69755b7",
     "versionLabel": "1.0",
     "watchapp": {
